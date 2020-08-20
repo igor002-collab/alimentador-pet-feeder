@@ -1,0 +1,3 @@
+servo motor:http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
+arduino uno ou nano:https://store.arduino.cc/usa/arduino-uno-rev3
+cabos:https://www.eletrogate.com/cabos-jumpers
